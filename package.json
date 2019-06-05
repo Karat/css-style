@@ -1,0 +1,13 @@
+{
+  "name": "css-style",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Karat/css-style.git",
+  "license": "MIT",
+  "dependencies": {
+    "stylelint-config-twbs-bootstrap": "^0.3.1"
+  },
+  "peerDependencies": {
+    "stylelint": "^10.0.1"
+  }
+}
