@@ -3,6 +3,7 @@ module.exports = {
     "stylelint-config-twbs-bootstrap/scss",
   ],
   rules: {
+    "function-calc-no-invalid": true,
     "scss/dollar-variable-default": null,
     "scss/at-function-named-arguments": null,
     "string-quotes": "single",
